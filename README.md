@@ -9,8 +9,8 @@ I just made an installer by WinRAR SFX for quicky setting it up. Thank you for a
 #### Installation ####
 
 >1. Install `WinRAR` from [rarlab.com](https://www.rarlab.com/)
->2. Run `SFX.CMD` to create the setup file `WerFault-WX.exe`
->3. Install the setup file `WerFault-WX.exe`
+>2. Run `SFX.CMD` to create the setup file `WER-Tweak-Installer.exe`
+>3. Install the setup file `WER-Tweak-Installer.exe`
 >4. Enjoy
 
 #### Reference ####
